@@ -17,3 +17,5 @@
 ### * Concatenation
 ## Tut11
 ### * String
+## Tut12 
+### * String index  & slicing 
