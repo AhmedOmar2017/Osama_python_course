@@ -3,8 +3,6 @@
 ### * include we used semicolon to separate between two lines 
 ## Tut4_5
 ### * include comment
-## Tut4_5
-### * include comment
 ## Tut6
 ### * include Data type
 ## Tut7
