@@ -17,3 +17,7 @@
 ### * String
 ## Tut12 
 ### * String index  & slicing 
+## Tut 13
+### * string methods part1
+### len() function, strip() , Title function, Capitalize function
+### zfill function, upper function, and lower function
