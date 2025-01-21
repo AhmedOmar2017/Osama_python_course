@@ -19,5 +19,17 @@
 ### * String index  & slicing 
 ## Tut 13
 ### * string methods part1
-### len() function, strip() , Title function, Capitalize function
-### zfill function, upper function, and lower function
+1. ### len() function, 2. 
+2. ### strip() , 
+3. ### Title function,
+4. ### Capitalize function
+5. ### zfill function, 
+6. ### upper function, 
+7. ### lower function
+## Tut 14 
+### * string method 2
+1. ### split function
+2. ### center function
+3. ### swapcase function
+4. ### startwith function 
+5. ### endstwith function 
