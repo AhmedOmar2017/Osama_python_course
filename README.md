@@ -33,3 +33,18 @@
 3. ### swapcase function
 4. ### startwith function 
 5. ### endstwith function 
+## Tut 15
+1. ### index function
+2. ### find function
+3. ### r,ljust function 
+4. ### splitlines function
+5. ### expandtabs function
+6. ### isspace function
+7. ### islower function
+8. ### isidentfiar function
+9. ### isalpha
+10. ### is alnum function
+## Tut 16
+1. ### replace function
+2. ### join function
+
