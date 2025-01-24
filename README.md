@@ -47,4 +47,6 @@
 ## Tut 16
 1. ### replace function
 2. ### join function
-
+## Tut 17
+1. ## string formatting old way
+2. ## Truncate string 
