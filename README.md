@@ -55,5 +55,9 @@
 2. ## Truncate string 
 3. ## format Money 
 4. ## format version 3.6 or above
-
+## Tut 19
+### Numbers
+1. ### integer 
+2. ### float 
+3. ### complex
 
