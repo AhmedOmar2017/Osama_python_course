@@ -50,3 +50,10 @@
 ## Tut 17
 1. ## string formatting old way
 2. ## Truncate string 
+## Tut 18
+1. ### string formatting new way
+2. ## Truncate string 
+3. ## format Money 
+4. ## format version 3.6 or above
+
+
