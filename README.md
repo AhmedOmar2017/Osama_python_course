@@ -60,4 +60,13 @@
 1. ### integer 
 2. ### float 
 3. ### complex
+## Tut 20
+1. ### Addition
+2. ### Subtraction
+3. ### Multiplication
+4. ### Division
+5. ###  Modulus
+6. ### Exponent
+7. ### Floor division
+
 
