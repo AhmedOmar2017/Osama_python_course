@@ -68,5 +68,5 @@
 5. ###  Modulus
 6. ### Exponent
 7. ### Floor division
-
-
+## Tut 21
+1. ## List
