@@ -70,3 +70,9 @@
 7. ### Floor division
 ## Tut 21
 1. ## List
+## Tut22
+1. ### append
+2. ### extend
+3. ### remove
+4. ### sort
+5. ### 
