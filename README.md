@@ -79,9 +79,9 @@
 5. ### reverse()
 
 ## Tut23
-1. ## clear()
-2. ## copy()
-3. ## count()
-4. ## index()
-5. ## insert()
-6. ## pop()
+1. ### clear()
+2. ### copy()
+3. ### count()
+4. ### index()
+5. ### insert()
+6. ### pop()
