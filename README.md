@@ -89,3 +89,6 @@
 
 ## Tut24
 1. ### tuple
+
+## Tut25
+1. ### one element
