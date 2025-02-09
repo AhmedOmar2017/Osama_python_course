@@ -92,3 +92,9 @@
 
 ## Tut25
 1. ### one element
+2. ### concate
+3. ### repeat
+4. ### method count
+5. ### method index
+6. ### method destruct
+7. 
