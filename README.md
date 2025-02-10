@@ -97,4 +97,6 @@
 4. ### method count
 5. ### method index
 6. ### method destruct
-7. 
+
+## Tut26
+1. ### set
