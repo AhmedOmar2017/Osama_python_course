@@ -141,5 +141,7 @@
 5. ### from keys()
 
 ## Tut 33
-1. ### boolen
-2. 
+1. ### boolean
+
+## Tut 34
+1. ### 
