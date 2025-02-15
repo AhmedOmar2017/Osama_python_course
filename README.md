@@ -132,3 +132,10 @@
 2. ### clear()
 3. ### update()
 4. ### copy()
+
+## Tut 32
+1. ### Dictionary method two
+2. ### setdefault()
+3. ### popitem()
+4. ### items()
+5. ### from keys()
