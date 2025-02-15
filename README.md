@@ -126,3 +126,9 @@
 
 ## Tut 30
 1. ## Dictionary
+
+## Tut 31
+1. ### Dictionary method
+2. ### clear()
+3. ### update()
+4. ### copy()
