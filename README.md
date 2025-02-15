@@ -139,3 +139,7 @@
 3. ### popitem()
 4. ### items()
 5. ### from keys()
+
+## Tut 33
+1. ### boolen
+2. 
