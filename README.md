@@ -123,3 +123,6 @@
 1. ### issuperset()
 2. ### issubset()
 3. ### isdisjoint()
+
+## Tut 30
+1. ## Dictionary
