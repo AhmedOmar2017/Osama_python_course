@@ -173,6 +173,9 @@
 ### **user input**
 1. ### input()
 
+## Tut 39 
+### **slice Email**
+
 
 
 
