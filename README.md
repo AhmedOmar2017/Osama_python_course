@@ -150,3 +150,17 @@
 
 ## Tut 35
 1. ### Assignments operators
+
+## Tut 36
+1. ### **Comparison Operators**
+2. ### [==] equal
+3. ### [!=] not equal
+4. ### [>] greater than
+5. ### [<] less than
+6. ### [<] less than
+7. ### [>=] greater than or equal
+8. ### [<=] less than or equal
+
+
+
+
