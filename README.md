@@ -161,6 +161,13 @@
 7. ### [>=] greater than or equal
 8. ### [<=] less than or equal
 
+## Tut 37
+
+### **data conversion**
+1. ### str()
+2. ### tuple()
+3. ### List()
+
 
 
 
