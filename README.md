@@ -168,6 +168,11 @@
 2. ### tuple()
 3. ### List()
 
+## Tut 38
+
+### **user input**
+1. ### input()
+
 
 
 
