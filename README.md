@@ -188,3 +188,9 @@
 ## Tut 42
 ### **nested condition**
 
+## Tut 43 
+### ** shorted If**
+
+
+## Tut 44 
+### **practice if **
