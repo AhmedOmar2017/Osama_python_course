@@ -206,5 +206,9 @@
 ## Tut 47 
 ### **while loop**
 
-## Tut 28
-### 
+## Tut 48
+### **Practice printing the full list**
+
+## Tut 49
+
+### **simple bookmarks**
