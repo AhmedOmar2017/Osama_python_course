@@ -214,4 +214,8 @@
 ### **simple bookmarks**
 
 ## Tut 50
-###
+### **Password checker**
+
+## Tut 51
+
+### **For loop**
