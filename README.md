@@ -219,3 +219,6 @@
 ## Tut 51
 
 ### **For loop**
+
+## Tut 52
+### **training for loop**
