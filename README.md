@@ -222,3 +222,8 @@
 
 ## Tut 52
 ### **training for loop**
+
+## Tut 53
+
+### **Nested for loop**
+
