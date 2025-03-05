@@ -26,6 +26,6 @@ people = {
     }
 }
 for name in people:
-    print(f"skills and progress for {name} is: {people[name]}")
+    print(f"skills and progress for {name} is: ")
     for skill in people[name]:
-        print(f"{skill}=>{people[name]}")
+        print(f"{skill}=>{people[name][skill]}")

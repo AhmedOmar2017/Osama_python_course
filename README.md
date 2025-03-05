@@ -227,3 +227,19 @@
 
 ### **Nested for loop**
 
+
+## Tut 54
+
+1. ### continue
+2. ### pass
+3. ### break
+
+## Tut 55
+
+### **Advanced dictionary loop**
+
+## **Function and return**
+
+
+## Tut 56
+
