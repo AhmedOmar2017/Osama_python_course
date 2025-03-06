@@ -238,8 +238,26 @@
 
 ### **Advanced dictionary loop**
 
-## **Function and return**
-
 
 ## Tut 56
+### **Function and return**
 
+## Tut 57
+
+### **function pramaters and return**
+
+## Tut 58
+
+### **Function Packing, unpacking Argument *arg**
+
+## Tut 59
+
+### **Function default parameter**
+
+## Tut 60
+
+### Function packing and unpacking, arg, **KWArgs
+
+## Tut 61
+
+### **Function packing and unpacking, arg, **KWArgs training**
