@@ -269,3 +269,7 @@
 ## Tut 63
 
 ### **recursion function**
+
+## Tut 64
+
+### **lambda function**
