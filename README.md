@@ -274,7 +274,11 @@
 
 ### **lambda function**
 
-## TUt 65
+## Tut 65
 
 ### **File handling**
 
+1. ## "a" ===> append   open file for appending Values, create if not exist
+2. ## "r" ===> read     [Default value] open file for read and give error if file not exist
+3. ## "w" ===> write    open file for writing, create file if not exists
+4. ## "x" ===> Create   Create file, give error if file exists
