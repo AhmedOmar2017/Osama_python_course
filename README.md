@@ -282,3 +282,25 @@
 2. ## "r" ===> read     [Default value] open file for read and give error if file not exist
 3. ## "w" ===> write    open file for writing, create file if not exists
 4. ## "x" ===> Create   Create file, give error if file exists
+
+
+## Tut 66 
+### **File handling part two**
+1. ### Read 
+2. ### Readline
+3. ### Readlines
+
+## Tut 67
+
+### **File handling part three**
+
+1. ### write
+2. ### Writeline
+
+## Tut 67
+
+### **File handling part four**
+
+1. ### trancate 
+2. ### seek
+
