@@ -297,10 +297,29 @@
 1. ### write
 2. ### Writeline
 
-## Tut 67
+## Tut 68
 
 ### **File handling part four**
 
 1. ### trancate 
 2. ### seek
+
+## Tut 69
+
+### **built-in function**
+
+1. ### all()
+2. ### any()
+3. ### bin()
+4. ### id()
+
+
+## Tut 70
+
+### **built-in function part two**
+
+1. ### sum()
+2. ### round()
+3. ### range()
+4. ### print()
 
