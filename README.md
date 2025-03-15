@@ -338,6 +338,13 @@
 
 ### Map function()
 
+## Tut 72
+
+### **built-in function part five**
+
+### filter function()
+
+
 
 
 
