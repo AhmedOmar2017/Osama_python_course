@@ -323,3 +323,16 @@
 3. ### range()
 4. ### print()
 
+## Tut 71
+
+### **built-in function part three**
+1. ### abs()
+2. ### pow()
+3. ### min()
+4. ### max()
+5. ### slice()
+
+
+
+
+
