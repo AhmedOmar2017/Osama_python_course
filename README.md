@@ -332,6 +332,11 @@
 4. ### max()
 5. ### slice()
 
+## Tut 72
+
+### **built-in function part four**
+
+### Map function()
 
 
 
