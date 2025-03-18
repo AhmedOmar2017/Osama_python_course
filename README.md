@@ -350,6 +350,10 @@
 
 ### reduce function()
 
+## Tut 75
+
+### **built-in function part seven**
+
 
 
 
