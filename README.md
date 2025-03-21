@@ -370,5 +370,10 @@
 3. ### [3] pip install "package's name"
 4. ### [4] pip install pip --upgrade ==> python.exe -m pip install --upgrade pip
 
+## Tut 79
 
+### **Introduction to Date and time**
 
+## Tut 80
+
+### **Date and time format**
