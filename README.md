@@ -361,5 +361,14 @@
 
 ### **build your own module**
 
+## Tut 78
+
+### **Install external package**
+
+1. ### [1] pip --version
+2. ### [2] pip list
+3. ### [3] pip install "package's name"
+4. ### [4] pip install pip --upgrade ==> python.exe -m pip install --upgrade pip
+
 
 
