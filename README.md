@@ -381,3 +381,14 @@
 ## Tut81
 
 ### **iterable vs iterator**
+
+
+## Tut82
+
+### **Generator**
+
+## Tut83
+
+### **Decorator**
+
+

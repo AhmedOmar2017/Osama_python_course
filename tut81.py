@@ -4,7 +4,7 @@
 #
 # Iterable
 # [1] Object contains data that can be iterated Upon
-# [2] Examples (String, List, set, Tuple, DIctionary)
+# [2] Examples (String, List, set, Tuple, Dictionary)
 # ----------------------------------------------------
 # Iterator
 # [1] Object used to Iterate over Iterable Using next() method Return 1 Element at A time
