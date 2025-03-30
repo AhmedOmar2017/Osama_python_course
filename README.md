@@ -434,3 +434,7 @@
 ## Tut93
 
 ### ** Debugging**
+
+## Tut94
+
+### ** Type hinting**
