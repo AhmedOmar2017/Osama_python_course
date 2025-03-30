@@ -398,6 +398,39 @@
 
 ## Tut85 
 
-### **## Tut84 
 
-### **- Decorators - Practical Speed Test**
+### **Decorators - Practical Speed Test**
+
+
+## Tut86 
+
+### **Practical => Loop on my Iterators with zip()**
+
+## Tut87 
+
+### **Practical => Image Manipulation with pillow**
+
+## Tut88 
+
+### **Doc String & Commenting vs Documenting**
+
+## Tut89 
+
+### **Installing and use pylint for better code**
+
+
+## Tut90 
+
+### **Error And Expectations Raising**
+
+## Tut91
+
+### **Error Handling**
+
+## Tut92
+
+### ** Example for Error Handling**
+
+## Tut93
+
+### ** Debugging**
