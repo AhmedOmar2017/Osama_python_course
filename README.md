@@ -429,12 +429,12 @@
 
 ## Tut92
 
-### ** Example for Error Handling**
+### **Example for Error Handling**
 
 ## Tut93
 
-### ** Debugging**
+### **Debugging**
 
 ## Tut94
 
-### ** Type hinting**
+### **Type hinting**
