@@ -438,3 +438,26 @@
 ## Tut94
 
 ### **Type hinting**
+
+## Tut103
+
+### **Object oriented programming**
+
+## Tut 104
+### **Object-oriented programming part2**
+
+## Tut 105
+
+### **Instance Attributes and methods**
+
+## Tut 106
+### **OOP ==> Instance Attributes and methods**
+
+## Tut 107
+### **Class Attribute**
+
+## Tut 108
+### **OOP => Class methods & static method**
+
+## Tut 109
+### **OOP => magic method**
