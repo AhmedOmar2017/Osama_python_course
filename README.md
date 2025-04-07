@@ -439,6 +439,10 @@
 
 ### **Type hinting**
 
+## Tut 95 ==> 102
+
+### **Regular Expressions**
+
 ## Tut103
 
 ### **Object oriented programming**
