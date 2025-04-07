@@ -461,3 +461,36 @@
 
 ## Tut 109
 ### **OOP => magic method**
+
+## Tut 110
+
+### **OOP => Inheritance**
+
+
+## Tut 111
+
+### **OOP =>> multiple inheritance**
+
+
+## Tut 112
+
+### **OOP =>> polymorphism**
+
+## Tut 113
+
+### **OOP =>> Encapsulation**
+
+
+## Tut 114
+
+### **OOP =>> Getter and setter**
+
+
+## Tut 115
+
+### **OOP =>> @Property Decorator**
+
+
+## Tut 116
+
+### **OOP =>> ABCs ------ abstract base class**
